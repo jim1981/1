@@ -5,7 +5,7 @@
     version   = "1.0.0">
 
 <name>catalogo de servicios</name>
-
+<icon src ="agenda.jpg" gap:platform="android" gap:density="ldpi"/>
 
 <description>
 Lista de contactos de servicios
