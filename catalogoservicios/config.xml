@@ -5,7 +5,10 @@
     version   = "1.0.0">
 
 <name>catalogo de servicios</name>
-<icon src ="agenda.jpg" gap:platform="android" gap:density="ldpi"/>
+<icon src ="images/agenda.jpg" gap:platform="android" gap:density="ldpi"/>
+<icon src ="images/agenda.jpg" gap:platform="android" gap:density="mdpi"/>
+<icon src ="images/agenda.jpg" gap:platform="android" gap:density="hdpi"/>
+<icon src ="images/agenda.jpg" gap:platform="android" gap:density="xhdpi"/>
 
 <description>
 Lista de contactos de servicios
